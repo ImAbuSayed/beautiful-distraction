@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/beautiful-distraction/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Beautiful Distraction](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beautiful-distraction/) |
+| **Get License** | [Secure Licensing Rights for Beautiful Distraction](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beautiful-distraction/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Your shadow dancing on the hardwood floor
+> I leave the keys inside the open door
+> The moonlight falling on your silhouette
+> This is a night I never will forget
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

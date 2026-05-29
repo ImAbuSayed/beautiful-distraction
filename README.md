@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/beautiful-distraction/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Beautiful Distraction](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beautiful-distraction/) |
+| **Get License** | [License this song: Beautiful Distraction](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beautiful-distraction/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f5c70dba7937760838d4a7ebfc16a5d77aeb824bc688c9269ac95c1b00fd50a3` |
 | **Timestamp** | May 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
